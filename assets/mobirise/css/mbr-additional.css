@@ -417,13 +417,14 @@ h6,
   opacity: 0 !important;
 }
 #header6-q .mbr-section-title {
-  color: #28262b;
+  color: #fac51c;
+  font-size: 36px;
 }
 #header6-q .mbr-section-text {
   color: #2b0680;
 }
 #header6-q .mbr-section-title FONT {
-  color: #232323;
+  color: #000000;
 }
 #ext_menu-l .hide-buttons .nav-btn {
   display: none !important;

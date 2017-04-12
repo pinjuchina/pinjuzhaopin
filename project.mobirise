@@ -42,13 +42,14 @@
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#28262b"
+              "color": "#fac51c",
+              "font-size": "36px"
             },
             ".mbr-section-text": {
               "color": "#2b0680"
             },
             ".mbr-section-title FONT": {
-              "color": "#232323"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -72,14 +73,14 @@
             "overlayColor": "#ccc",
             "inverse": true,
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
-            "showArrow": true
+            "showArrow": false
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-12-1400x1110.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x911.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -98,7 +99,7 @@
               "size": 250
             }
           },
-          "title": "品质居家<br><font color=\"#000000\">都找 品居租房</font>",
+          "title": "品质居家<br><font color=\"#000000\">上 品居租房网</font>",
           "text": "www.pinjuvip.com<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
@@ -206,10 +207,10 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "showMeta": true
           },
-          "title": "<br><br>品居招聘岗位",
+          "title": "<span style=\"color: inherit; line-height: 1.1;\">品居招聘岗位</span><br>",
           "meta": "2017.4发布<br>"
         },
         {
@@ -228,9 +229,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
-          "text": "<p>&nbsp; &nbsp; &nbsp;品居租房以“全新的互联网房地产居间综合服务商”的概念出现，服务于时间紧迫、追求品质居家的客户。</p><p>我们为客户提供更完善的租后服务，让我们的客户更省心、省事的搬进新家。不在为租房前后的琐碎的事而烦恼。</p><p>当客户找到我们那一刻，所有关于租房的事情变的简单起来。客户只看房、签约即可，剩下的事，如：搬家、家电清洗、保洁等关于房子的事情都交给我们的客户经理就可以了。</p><p><b>这将是“有史以来 粘性最强的服务”</b></p><p>不仅仅如此，，，更多奇迹，等你一起来创造！</p>"
+          "text": "<p>品居租房以“全新的互联网房地产居间综合服务商”的概念出现，服务于时间紧迫、追求品质居家的客户。</p><p><br></p><p>我们为客户提供更完善的租后服务，让我们的客户更省心、省事的搬进新家。不在为租房前后的琐碎的事而烦恼。</p><p>当客户找到我们那一刻，所有关于租房的事情变的简单起来。</p><p><br></p><p>客户只看房、签约即可，剩下的事，如：搬家、家电清洗、保洁等关于房子的事情都交给我们的客户经理就可以了。</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">这将是”有史以来 黏性最强的服务“</b><br></p>"
         },
         {
           "_tags": [
@@ -335,6 +336,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-r",
           "_params": {
             "labelsColor": "#232323",
@@ -380,12 +386,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><font color=\"#000000\">确认投送</font><br></a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><font color=\"#000000\">确认投送</font><br></a>"
         },
         {
           "_tags": [
