@@ -231,7 +231,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>品居租房以“全新的互联网房地产居间综合服务商”的概念出现，服务于时间紧迫、追求品质居家的客户。</p><p><br></p><p>我们为客户提供更完善的租后服务，让我们的客户更省心、省事的搬进新家。不在为租房前后的琐碎的事而烦恼。</p><p>当客户找到我们那一刻，所有关于租房的事情变的简单起来。</p><p><br></p><p>客户只看房、签约即可，剩下的事，如：搬家、家电清洗、保洁等关于房子的事情都交给我们的客户经理就可以了。</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">这将是”有史以来 黏性最强的服务“</b><br></p>"
+          "text": "<p>品居租房以“全新的互联网房地产居间综合服务商”的概念出现，服务于时间紧迫、追求居家品质的客户。</p><p><br></p><p>我们为客户提供更完善的租后服务，让我们的客户更省心、省事的搬进新家。不在为租房前、后的琐碎的事而烦恼。</p><p>当您找到我们那一刻，所有关于租房的事情变的简单起来。</p><p><br></p><p>客户只看房、签约即可，剩下的事，如：搬家、家电清洗、保洁等关于房子的事情都交给我们的客户经理就可以了。</p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">这将是</b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">有史以来 &nbsp;黏性最强的服务</b><br></p>"
         },
         {
           "_tags": [
@@ -250,7 +250,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>客户经理</b></span></p><p><span style=\"font-style: normal;\">工作内容：带领几位助理负责几个楼盘的租赁业务。盘源维护 、跟进。负责客户跟进、维护，匹配合适的房源。</span></p><p><span style=\"font-style: normal;\">签约对接我们内后勤服务部门，为客户解决相关问题 。</span></p><p><span style=\"font-style: normal;\">后续跟进客户所需，衔接服务部门。</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">岗位要求：三年以上的销售经验，三年以上在深圳生活工作要求。阳光积极的工作态度，正直自律的人生态度。热爱销售，愿意挑战。</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">待遇：底薪+提+房补</span></p><p><span style=\"font-style: normal;\">客户经理的薪资规划年均9K-25K左右.</span></p></blockquote>"
+          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>客户经理</b></span></p><p><span style=\"font-style: normal;\">工作内容：带领几位助理负责几个楼盘的租赁业务。盘源维护 、跟进。负责客户跟进、维护，匹配合适的房源。</span></p><p><span style=\"font-style: normal;\">签约对接我们内后勤服务部门，为客户解决相关问题 。</span></p><p><span style=\"font-style: normal;\">后续跟进客户所需，衔接服务部门。</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">岗位要求：三年以上的销售经验，三年以上在深圳生活工作要求。阳光积极的工作态度，正直自律的人生态度。热爱销售，愿意挑战。</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">待遇：底薪+提成+房补</span></p><p><span style=\"font-style: normal;\">客户经理的薪资规划年均9K-25K左右.</span></p></blockquote>"
         },
         {
           "_tags": [
@@ -382,7 +382,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "请详细描述近三年的销售或互联网公司经验/到岗时间"
+                "customTitle": "请扼要描述近三年的销售或互联网公司经验/是否在职/到岗时间"
               }
             }
           },
